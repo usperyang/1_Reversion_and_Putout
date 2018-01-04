@@ -148,6 +148,8 @@
   <ItemGroup>
     <ClCompile Include="putNXstring.cpp" />
     <ClCompile Include="reverse_1.cpp" />
+    <ClCompile Include="reverse_2.cpp" />
+    <ClCompile Include="reverse_3.cpp" />
     <ClCompile Include="Reversion_and_Putout.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
