@@ -18,5 +18,11 @@
     <ClCompile Include="Reversion_and_Putout.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="putNXstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
